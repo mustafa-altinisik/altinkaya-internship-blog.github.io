@@ -1,7 +1,7 @@
 # Site
 name: "Altınkaya Internship Blog"
 title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Blog posts by Altınkaya interns"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /altinkaya-internship-blog.github.io
@@ -13,6 +13,15 @@ permalink: /:title/
 
 # Authors
 authors:
+  asim:
+    name: Mustafa Asım Altınışık
+    display_name: Asım Altınışık
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: mustafa@altinkaya.com.tr
+    web:
+    twitter:
+    description: "Student @ Bilkent University, intern @Altınkaya"
+
   sal:
     name: Sal
     display_name: Sal
