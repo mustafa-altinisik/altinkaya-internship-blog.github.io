@@ -16,7 +16,7 @@ image: assets/images/1.jpg
     #you can use your gravatar account alternatively.
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: yourEMail
-    description: "saySomethingAboutYourself"
+    description: "saySomething"
 ```
 
 3-Create a file under '_posts/' folder. You will write your post into that file. 
